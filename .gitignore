@@ -4,4 +4,5 @@ __pycache__/
 road_damage_model.h5
 road_weights.weights.h5
 
+*.h5
 *.pyc
