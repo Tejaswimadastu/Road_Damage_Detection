@@ -1,7 +1,9 @@
 streamlit
-tensorflow-cpu==2.19.0
+tensorflow
+keras
 numpy
 pandas
-matplotlib
+opencv-python
 pillow
+matplotlib
 scikit-learn
